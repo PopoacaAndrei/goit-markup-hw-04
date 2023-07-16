@@ -152,7 +152,7 @@ body {
   letter-spacing: 3%;
   text-align: center;
 }
-/*--------------------------------------------------Portfolio page*/
+/*Portfolio page*/
 .portfolio-page {
   color: var(--brand-color);
 }
@@ -250,7 +250,6 @@ body {
   color: var(--brand-color);
 }
 
-/*----------------------------------LAYOUT------------------------------------*/
 /*Header layout*/
 .container {
   width: 100%;
@@ -405,7 +404,7 @@ body {
 .footer-adress:last-child {
   margin-bottom: 0;
 }
-/*-------------------------------Portfolio Page--------------------*/
+/*Portfolio Page*/
 .button-list {
   display: flex;
   justify-content: center;
